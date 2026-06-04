@@ -9,6 +9,11 @@ The exercises are organized by difficulty level and topic, making it easier to r
 ```plaintext
 java_exercises/
 │
+├── array/                        # Arrays and vectors
+│   ├── sum                       # Sum of vector elements
+│   ├── heights                   # Average height and percentage of people under 16
+│   └── even_numbers              # Total count of even numbers in an array
+│
 ├── basic/
 │   ├── average                   # Calculates grade average
 │   ├── ascendingOrder            # Prints numbers in ascending or descending order
@@ -32,7 +37,7 @@ java_exercises/
 │   ├── swap                      # Value swapping
 │   ├── temperatureconversion     # Temperature conversion
 │   └── variaveis                 # Variable usage
-│  
+│
 └── poo/                          # Object-Oriented Programming
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
     ├── library                   # Book library system with borrowing, return and availability tracking
