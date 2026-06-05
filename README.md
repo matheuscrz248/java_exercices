@@ -10,10 +10,12 @@ The exercises are organized by difficulty level and topic, making it easier to r
 java_exercises/
 │
 ├── array/                        # Arrays and vectors
-│   ├── heights                   # Average height and percentage of people under 16
-│   ├── negatives                 # Separates negative and positive numbers from an array
-│   ├── highest_value             # Finds the highest value and its position in an array
+│   ├── below_average             # Prints elements below average
+│   ├── even_average              # Average of even numbers
 │   ├── even_numbers              # Total count of even numbers in an array
+│   ├── heights                   # Average height and percentage of people under 16
+│   ├── highest_value             # Finds the highest value and its position in an array
+│   ├── negatives                 # Separates negative and positive numbers from an array
 │   ├── sum                       # Sum of vector elements
 │   └── sum_vectors               # Vector as a sum of vector
 │
