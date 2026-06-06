@@ -11,6 +11,7 @@ java_exercises/
 │
 ├── array/                        # Arrays and vectors
 │   ├── below_average             # Prints elements below average
+│   ├── boarding_house            # Room rental system with occupancy validation
 │   ├── even_average              # Average of even numbers
 │   ├── even_numbers              # Total count of even numbers in an array
 │   ├── heights                   # Average height and percentage of people under 16
