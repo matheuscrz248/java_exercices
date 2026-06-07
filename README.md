@@ -46,6 +46,7 @@ java_exercises/
 │
 └── poo/                          # Object-Oriented Programming
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
+    ├── boarding_house            # Room rental system with occupancy validation and arrays
     ├── library                   # Book library system with borrowing, return and availability tracking
     ├── netsalary                 # Employee class with net salary calculation and increase
     ├── personbasics              # Person class with attributes, methods and objects
