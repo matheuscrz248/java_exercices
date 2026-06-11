@@ -44,6 +44,9 @@ java_exercises/
 │   ├── temperatureconversion     # Temperature conversion
 │   └── variaveis                 # Variable usage
 │
+├── list/
+│   └── employee                  # Employee list with salary increase using ArrayList and stream
+│
 └── poo/                          # Object-Oriented Programming
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
     ├── boarding_house            # Room rental system with occupancy validation and arrays
