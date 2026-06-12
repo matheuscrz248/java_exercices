@@ -49,6 +49,7 @@ java_exercises/
 │
 ├── matrix/
 │   └── matrix1                   # Creates a matrix and prints the diagonals
+│   └── matrix_position           # Prints the position and its neighboring elements, if any
 │
 └── poo/                          # Object-Oriented Programming
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
