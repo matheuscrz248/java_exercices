@@ -47,6 +47,9 @@ java_exercises/
 ├── list/
 │   └── employee                  # Employee list with salary increase using ArrayList and stream
 │
+├── matrix/
+│   └── matrix1                   # Creates a matrix and prints the diagonals
+│
 └── poo/                          # Object-Oriented Programming
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
     ├── boarding_house            # Room rental system with occupancy validation and arrays
