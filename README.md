@@ -47,6 +47,9 @@ java_exercises/
 ├── list/
 │   └── employee                  # Employee list with salary increase using ArrayList and stream
 │
+├── localdatetime/
+│   └── local_date_time           # LocalDate and LocalDateTime usage with formatting, parsing and date operations
+│
 ├── matrix/
 │   └── matrix1                   # Creates a matrix and prints the diagonals
 │   └── matrix_position           # Prints the position and its neighboring elements, if any
