@@ -1,4 +1,4 @@
-package poo.boarding_house;
+package poo.boardinghouse;
 
 public class Rent {
 

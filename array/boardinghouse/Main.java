@@ -1,58 +1,64 @@
-package poo.boarding_house;
+package array.boardinghouse;
 
-import java.util.Scanner;
 import java.util.Locale;
+import java.util.Scanner;
 
 public class Main {
-
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
 
         int totalRooms = 10;
 
-        Rent[] vect = new Rent[totalRooms];
-
         System.out.print("How many rooms will be rented? ");
         int n = scanner.nextInt();
         scanner.nextLine();
 
+        String[] name = new String[totalRooms];
+        String[] email = new String[totalRooms];
+        boolean[] occupied = new boolean[totalRooms];
+
         for (int i = 0; i < n; i++) {
+            int roomIndex = -1;
 
             System.out.printf("%nRent #%d%n", i + 1);
 
             System.out.print("Name: ");
-            String name = scanner.nextLine();
+            String nameAux = scanner.nextLine();
 
             System.out.print("Email: ");
-            String email = scanner.nextLine();
+            String emailAux = scanner.nextLine();
 
-            int roomNumber;
+            int aux;
             do {
                 System.out.print("Room: ");
-                roomNumber = scanner.nextInt();
+                aux = scanner.nextInt();
                 scanner.nextLine();
 
-                if (roomNumber < 0 || roomNumber > (totalRooms - 1)) {
+                if (aux < 0 || aux > (totalRooms - 1)) {
                     System.out.println("This room does not exist!\n");
                 } else {
-                    if (vect[roomNumber] != null) {
+                    roomIndex = aux;
+                    if (occupied[roomIndex]) {
                         System.out.println("The chosen room is already occupied, choose another one!\n");
                     }
                 }
 
-            } while (roomNumber < 0 || roomNumber > (totalRooms - 1) || vect[roomNumber] != null);
+            } while (roomIndex == -1 || occupied[roomIndex]);
 
-            vect[roomNumber] = new Rent(name, email, roomNumber);
-
+            occupied[roomIndex] = true;
+            name[roomIndex] = nameAux;
+            email[roomIndex] = emailAux;
         }
 
         System.out.println("\nBusy rooms:");
-        for (int i = 0; i <= (totalRooms -1); i++) {
-            if (vect[i] != null) {
-                System.out.println(vect[i]);
+
+        for (int i = 0; i < totalRooms; i++) {
+            if (occupied[i]) {
+                System.out.printf("%d: %s, %s%n", i, name[i], email[i]);
             }
         }
 
+        scanner.close();
     }
 }

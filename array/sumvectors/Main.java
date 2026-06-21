@@ -1,4 +1,4 @@
-package array.sum_vectors;
+package array.sumvectors;
 
 import java.util.Locale;
 import java.util.Scanner;

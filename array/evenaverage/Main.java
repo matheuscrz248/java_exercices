@@ -1,4 +1,4 @@
-package array.even_average;
+package array.evenaverage;
 
 import java.util.Locale;
 import java.util.Scanner;

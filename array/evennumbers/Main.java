@@ -1,4 +1,4 @@
-package array.even_numbers;
+package array.evennumbers;
 
 import java.util.Locale;
 import java.util.Scanner;

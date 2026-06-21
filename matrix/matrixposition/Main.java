@@ -1,4 +1,4 @@
-package matrix.matrix_position;
+package matrix.matrixposition;
 
 import java.util.Scanner;
 

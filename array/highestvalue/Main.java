@@ -1,4 +1,4 @@
-package array.highest_value;
+package array.highestvalue;
 
 import java.util.Locale;
 import java.util.Scanner;

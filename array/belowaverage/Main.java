@@ -1,4 +1,4 @@
-package array.below_average;
+package array.belowaverage;
 
 import java.util.Locale;
 import java.util.Scanner;
