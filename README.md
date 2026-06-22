@@ -61,6 +61,7 @@ java_exercises/
     ├── netsalary                 # Employee class with net salary calculation and increase
     ├── personbasics              # Person class with attributes, methods and objects
     ├── personconstructors        # Person class with constructor
+    ├── postandcomment            # Posts and comments with StringBuilder, lists and dates
     ├── shapes                    # Circle, Rectangle and Triangle classes with polymorphism
     ├── staticmodifier            # CurrencyConverter class with static and instance attributes
     ├── student                   # Student class with score tracking and approval check
