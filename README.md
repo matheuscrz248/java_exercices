@@ -59,6 +59,7 @@ java_exercises/
     ├── boarding_house            # Room rental system with occupancy validation and arrays
     ├── library                   # Book library system with borrowing, return and availability tracking
     ├── netsalary                 # Employee class with net salary calculation and increase
+    ├── ordersummary              # Client, items, subtotal and total price using composition and ArrayList
     ├── personbasics              # Person class with attributes, methods and objects
     ├── personconstructors        # Person class with constructor
     ├── postandcomment            # Posts and comments with StringBuilder, lists and dates
