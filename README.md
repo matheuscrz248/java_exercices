@@ -67,6 +67,7 @@ java_exercises/
     ├── shapes                    # Circle, Rectangle and Triangle classes with polymorphism
     ├── staticmodifier            # CurrencyConverter class with static and instance attributes
     ├── student                   # Student class with score tracking and approval check
+    ├── usedproduct               # Different product types with polimorfism
     ├── vehicle                   # Vehicle, Car and Motorcycle classes with inheritance and method overriding
     └── workercontract            # Worker monthly income calculator with contracts, enums, lists and dates
 ```
