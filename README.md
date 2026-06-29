@@ -60,6 +60,7 @@ java_exercises/
     ├── library                   # Book library system with borrowing, return and availability tracking
     ├── netsalary                 # Employee class with net salary calculation and increase
     ├── ordersummary              # Client, items, subtotal and total price using composition and ArrayList
+    ├── outsourcedemployee        # Employee class with polimorfism
     ├── personbasics              # Person class with attributes, methods and objects
     ├── personconstructors        # Person class with constructor
     ├── postandcomment            # Posts and comments with StringBuilder, lists and dates
