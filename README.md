@@ -56,6 +56,7 @@ java_exercises/
 │
 └── poo/                          # Object-Oriented Programming
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
+    ├── bankaccountexception      # BankAccount with RuntimeException (exception handling)
     ├── boarding_house            # Room rental system with occupancy validation and arrays
     ├── individualcompany         # Abstract class and abstract method
     ├── library                   # Book library system with borrowing, return and availability tracking
