@@ -44,6 +44,9 @@ java_exercises/
 │   ├── temperatureconversion     # Temperature conversion
 │   └── variaveis                 # Variable usage
 │
+├── files/
+│   └── summary                   # Create a subfolder, read a .txt file, and write to a .txt file
+│
 ├── list/
 │   └── employee                  # Employee list with salary increase using ArrayList and stream
 │
