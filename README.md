@@ -44,6 +44,9 @@ java_exercises/
 │   ├── temperatureconversion     # Temperature conversion
 │   └── variaveis                 # Variable usage
 │
+├── challenges/
+│   └── simplecaesarchiper        # Creates a new string with the letters shifted by n positions
+│
 ├── files/
 │   └── summary                   # Create a subfolder, read a .txt file, and write to a .txt file
 │
