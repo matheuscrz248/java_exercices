@@ -45,6 +45,7 @@ java_exercises/
 │   └── variaveis                 # Variable usage
 │
 ├── challenges/
+│   ├── pairsmallestdiff          # Find two numbers whose sum is X
 │   └── simplecaesarchiper        # Creates a new string with the letters shifted by n positions
 │
 ├── files/
