@@ -45,6 +45,7 @@ java_exercises/
 │   └── variaveis                 # Variable usage
 │
 ├── challenges/
+│   ├── countwords                # Count the number of words in a sentence
 │   ├── mostcommomword            # Return the most frequent word in a sentence
 │   ├── pairsmallestdiff          # Find two numbers whose sum is X
 │   ├── palindrome                # Checks if a string is a palindrome
