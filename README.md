@@ -45,6 +45,7 @@ java_exercises/
 │   └── variaveis                 # Variable usage
 │
 ├── challenges/
+│   ├── anagram                   # Check whether two words are anagrams
 │   ├── countwords                # Count the number of words in a sentence
 │   ├── mostcommomword            # Return the most frequent word in a sentence
 │   ├── pairsmallestdiff          # Find two numbers whose sum is X
@@ -66,7 +67,7 @@ java_exercises/
 │   └── matrix1                   # Creates a matrix and prints the diagonals
 │   └── matrix_position           # Prints the position and its neighboring elements, if any
 │
-└── poo/                          # Object-Oriented Programming
+└── poo/                          
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
     ├── bankaccountexception      # BankAccount with RuntimeException (exception handling)
     ├── boarding_house            # Room rental system with occupancy validation and arrays
