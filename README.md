@@ -50,6 +50,7 @@ java_exercises/
 │   ├── pairsmallestdiff          # Find two numbers whose sum is X
 │   ├── palindrome                # Checks if a string is a palindrome
 │   ├── reversewords              # Reverse the order of the words
+│   ├── secondlargestnumber       # Return the second largest number in an array
 │   └── simplecaesarchiper        # Creates a new string with the letters shifted by n positions
 │
 ├── files/
