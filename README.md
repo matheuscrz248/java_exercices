@@ -53,7 +53,8 @@ java_exercises/
 │   ├── palindrome                # Checks if a string is a palindrome
 │   ├── reversewords              # Reverse the order of the words
 │   ├── secondlargestnumber       # Return the second largest number in an array
-│   └── simplecaesarchiper        # Creates a new string with the letters shifted by n positions
+│   ├── simplecaesarchiper        # Creates a new string with the letters shifted by n positions
+│   └── sumdigitsstring           # Sum the digits in a string
 │
 ├── files/
 │   └── summary                   # Create a subfolder, read a .txt file, and write to a .txt file
