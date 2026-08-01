@@ -52,6 +52,7 @@ java_exercises/
 │   ├── mostcommomword            # Return the most frequent word in a sentence
 │   ├── pairsmallestdiff          # Find two numbers whose sum is X
 │   ├── palindrome                # Checks if a string is a palindrome
+│   ├── removeduplicatesarray     # Remove duplicates from an array
 │   ├── reversewords              # Reverse the order of the words
 │   ├── secondlargestnumber       # Return the second largest number in an array
 │   ├── simplecaesarchiper        # Creates a new string with the letters shifted by n positions
