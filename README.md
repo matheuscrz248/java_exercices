@@ -47,6 +47,7 @@ java_exercises/
 ├── challenges/
 │   ├── anagram                   # Check whether two words are anagrams
 │   ├── asteriskpyramid           # Print a pyramid with n levels
+│   ├── countcharacteroccurrences # Count how many times a character appears
 │   ├── countvowels               # Count the number of vowels in a sentence
 │   ├── countwords                # Count the number of words in a sentence
 │   ├── longestword               # Return the longest word in a sentence
