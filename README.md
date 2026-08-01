@@ -49,6 +49,7 @@ java_exercises/
 │   ├── asteriskpyramid           # Print a pyramid with n levels
 │   ├── countvowels               # Count the number of vowels in a sentence
 │   ├── countwords                # Count the number of words in a sentence
+│   ├── longestword               # Return the longest word in a sentence
 │   ├── mostcommomword            # Return the most frequent word in a sentence
 │   ├── pairsmallestdiff          # Find two numbers whose sum is X
 │   ├── palindrome                # Checks if a string is a palindrome
