@@ -59,7 +59,8 @@ java_exercises/
 │   ├── reversewords              # Reverse the order of the words
 │   ├── secondlargestnumber       # Return the second largest number in an array
 │   ├── simplecaesarchiper        # Creates a new string with the letters shifted by n positions
-│   └── sumdigitsstring           # Sum the digits in a string
+│   ├── sumdigitsstring           # Sum the digits in a string
+│   └── sumofeven                 # Sum only the even numbers
 │
 ├── files/
 │   └── summary                   # Create a subfolder, read a .txt file, and write to a .txt file
