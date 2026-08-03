@@ -56,6 +56,7 @@ java_exercises/
 │   ├── palindrome                # Checks if a string is a palindrome
 │   ├── primenumber               # Checks if a int is a prime number
 │   ├── removeduplicatesarray     # Remove duplicates from an array
+│   ├── reverseinteger            # Reverse the order a integer
 │   ├── reversewords              # Reverse the order of the words
 │   ├── secondlargestnumber       # Return the second largest number in an array
 │   ├── simplecaesarchiper        # Creates a new string with the letters shifted by n positions
