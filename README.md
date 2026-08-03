@@ -50,6 +50,7 @@ java_exercises/
 │   ├── countcharacteroccurrences # Count how many times a character appears
 │   ├── countvowels               # Count the number of vowels in a sentence
 │   ├── countwords                # Count the number of words in a sentence
+│   ├── fizzbuzz                  # Print the numbers from 1 to n following the FizzBuzz rules
 │   ├── gradeaverage              # Calculate the average and return the status
 │   ├── longestword               # Return the longest word in a sentence
 │   ├── mostcommomword            # Return the most frequent word in a sentence
