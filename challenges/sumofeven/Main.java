@@ -24,7 +24,6 @@ public class Main {
 
             int[] numbers = Arrays.stream(in.split(" "))
                     .mapToInt(Integer::parseInt)
-                    .distinct()
                     .toArray();
 
             int sum = 0;
