@@ -83,6 +83,7 @@ java_exercises/
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
     ├── bankaccountexception      # BankAccount with RuntimeException (exception handling)
     ├── boarding_house            # Room rental system with occupancy validation and arrays
+    ├── contractprocessing        # Contract Processing with Interfaces and Dependency Injection
     ├── individualcompany         # Abstract class and abstract method
     ├── library                   # Book library system with borrowing, return and availability tracking
     ├── netsalary                 # Employee class with net salary calculation and increase
