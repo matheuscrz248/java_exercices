@@ -84,6 +84,8 @@ java_exercises/
     ├── bankaccountexception      # BankAccount with RuntimeException (exception handling)
     ├── boarding_house            # Room rental system with occupancy validation and arrays
     ├── contractprocessing        # Contract Processing with Interfaces and Dependency Injection
+    ├── emailsms                  # Order notification system using Interface, Dependency Injection,
+    │                               Inversion of Control (IoC), Composition and Default Method.
     ├── individualcompany         # Abstract class and abstract method
     ├── library                   # Book library system with borrowing, return and availability tracking
     ├── netsalary                 # Employee class with net salary calculation and increase
