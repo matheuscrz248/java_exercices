@@ -82,6 +82,8 @@ java_exercises/
 └── poo/                          
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
     ├── bankaccountexception      # BankAccount with RuntimeException (exception handling)
+    ├── banksystem                # Interface, Dependency Injection, Inversion of Control (IoC), 
+    │                               Composition and Default Method
     ├── boarding_house            # Room rental system with occupancy validation and arrays
     ├── contractprocessing        # Contract Processing with Interfaces and Dependency Injection
     ├── emailsms                  # Order notification system using Interface, Dependency Injection,
